@@ -1,0 +1,8 @@
+textarea{
+    width: 20rem;
+    resize: none;
+    text-align: right;
+    font-size: 2rem;
+    background-color: #52627A;
+    color:#EFEFEF;
+}
